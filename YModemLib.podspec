@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "YModemLib"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "Bluetooth help quick update ota YModemLib."
 
   spec.description  = <<-DESC
